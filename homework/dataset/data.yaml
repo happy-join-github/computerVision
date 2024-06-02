@@ -1,0 +1,8 @@
+train: C:\Users\Administrator\Desktop\homework\dataset\images\train
+train_labels: C:\Users\Administrator\Desktop\homework\dataset\labels\train
+
+val: C:\Users\Administrator\Desktop\homework\dataset\images\val
+val_labels: C:\Users\Administrator\Desktop\homework\dataset\labels\val
+
+nc: 1  # 数据集中的类数
+names: ['LicensePlate']  # 数据集的类名列表
