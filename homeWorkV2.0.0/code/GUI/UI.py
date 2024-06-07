@@ -6,8 +6,6 @@ from share import SI
 from mainUI import MainWindow
 
 app = QApplication(sys.argv)
-# SI.loginWin = LoginWindow()
-# SI.loginWin.show()
-SI.mainWin = MainWindow()
-SI.mainWin.show()
+SI.loginWin = LoginWindow()
+SI.loginWin.show()
 app.exec_()
