@@ -1,6 +1,6 @@
 V1.0使用方法
 
-本地需要搭建数据库数据库名为home，里面有两张表，分别为history_user和manage。
+本地需要搭建数据库数据库名为homework，里面有两张表，分别为history_user和manage。
 
 数据库执行语句
 
@@ -47,6 +47,8 @@ FLUSH PRIVILEGES;
 ```
 cd /homework/
 pip install -r requirement.txt
+cd homeWorkV1.0.0/code/GUI/
+python UI.py
 ```
 
-在code/ui运行ui.py即可运行此项目。初始用户名root和密码123456
+初始用户名root和密码123456
