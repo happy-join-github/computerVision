@@ -52,3 +52,4 @@ python UI.py
 ```
 
 初始用户名root和密码123456
+演示效果可以看V1.0.0Docfile里面的ppt或者技术文档
